@@ -10,7 +10,7 @@ class HauntedHouse < ActiveRecord::Migration[4.2]
     t.boolean :family_friendly
     t.     :opening_date
     t.      :closing_date
-    t.string :description 
-  
-  end 
+    t.string :description
+
+  end
 end
