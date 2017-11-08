@@ -16,6 +16,6 @@
         t.string :size
         t.timestamps
       end 
-   end 
+   end
 
  end
