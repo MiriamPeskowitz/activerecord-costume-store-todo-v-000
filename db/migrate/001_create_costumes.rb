@@ -14,7 +14,7 @@
         t.float :price
         t.text :image_url
         t.string :size
-        t.timestamps 
+        t.timestamps
       end
    end
  end
